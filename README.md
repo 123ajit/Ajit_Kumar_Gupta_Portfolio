@@ -1,5 +1,7 @@
 # Ajit_Kumar_Gupta_Portfolio
 
+![Uploading image.png…]()
+
 # Available Scripts
 
 In the project directory, you can run:
