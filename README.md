@@ -1,6 +1,6 @@
 # Ajit_Kumar_Gupta_Portfolio
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/14126987/167067031-097b1469-d29f-48b2-a3ff-1b5c098a9392.png)
 
 # Available Scripts
 
